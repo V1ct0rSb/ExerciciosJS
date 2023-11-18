@@ -1,0 +1,1 @@
+// Exercício 4: Declare duas variáveis booleanas e use operadores lógicos para imprimir o resultado das seguintes operações: AND, OR e NOT
